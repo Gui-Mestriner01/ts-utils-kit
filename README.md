@@ -1,6 +1,6 @@
 # ts-utils-kit
 
-![CI](https://github.com/SEU_USUARIO/ts-utils-kit/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Gui-Mestriner01/ts-utils-kit/actions/workflows/ci.yml/badge.svg)
 
 Biblioteca simples em TypeScript com funções utilitárias de matemática (soma, subtração, multiplicação, divisão, média) e texto (palíndromo, capitalização), com testes unitários e pipeline de CI.
 
